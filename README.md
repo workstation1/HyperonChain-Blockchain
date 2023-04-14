@@ -1,6 +1,7 @@
-# HyperonChain-Blockchain
+# FtxChain-Blockchain
 go-ethereum fork
 
-Introduction to HyperonChain
+Introduction to FtxChain
 
-HyperonChain (HPN) is a truely decentralized, high-efficiency and energy saving public blockchain.
+FtxChain (FTT) is a truely decentralized blockchain developed by ftt tokenholders.
+ftt chain will de-orphan the ftt tokens unlocking the faith and value of cryptocurrency.
